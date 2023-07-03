@@ -1,5 +1,4 @@
 # Pymaceuticals
-Pymaceuticals - Module 5 Challenge
 The Pymaceuticals assignment examined the data of 249 mice who were identified with squamous cell carcinoma (SCC) and received treatment with a range of drug regimens.  Observations were recorded, including the metrics of weight, tumor volume and metastatic site. The data came from two source csv files: Mouse_metadata.csv and Study_results.csv.  The aggregation of these two files provided for a cornucopia of analysis enabled by the generating of summary statistics, bar and pie charts, line and scatter plots, quartiles and correlation and regression assessments.
 
 The programming for the analysis was completed via Python with the utilization of matplotlib.pyplot, numpy, scipy.stats and, of course, pandas.  Successful execution required extensive study of python processes and syntax, with significant focus upon the aforementioned libraries.  As well, I was (and am) grateful for the opportunity to take advantage of the GW Bootcamp instructor and the occasional tutoring session, both of which enriched the knowledge and skill-building provided by the exercise. 
